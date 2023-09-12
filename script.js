@@ -20,6 +20,9 @@ function getSingle(id){
     })
 }
 
+function renderHTML(obj){
+    
+}
 
 
 
